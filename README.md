@@ -46,7 +46,8 @@ git clone https://github.com/MateusGonzag/Markdown-Previewer
 cd markdown-preview
 
 # instalar dependências
-yarn install
+$ yarn install
+$ npm install
 
 # executar o projeto
 yarn dev
